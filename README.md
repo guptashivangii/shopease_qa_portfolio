@@ -54,4 +54,3 @@ shopease_qa_portfolio/
     ├── Test_Summary_Report.md          # Release Recommendation & Closure Report
     └── Defect_Summary_Report.md        # Deep-dive Defect Metrics & Statistics
 ```
-4. **Resume Updates**: Copy and paste the bullet points and key achievements from [Resume_Content.md](file:///C:/Users/shiva/.gemini/antigravity/scratch/shopease_qa_portfolio/career/Resume_Content.md) into your resume.
