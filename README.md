@@ -2,7 +2,7 @@
 
 Welcome to the **ShopEase QA Project**! 
 
-This repository contains a comprehensive, end-to-end Software Quality Assurance (QA) portfolio for an e-commerce web application named **ShopEase**. 
+This repository contains a comprehensive, end-to-end Software Quality Assurance (QA) project for an e-commerce web application named **ShopEase**. 
 ---
 
 ## 🚀 Application Under Test (AUT) Overview: ShopEase
