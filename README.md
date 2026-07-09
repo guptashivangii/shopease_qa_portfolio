@@ -1,6 +1,7 @@
 ## ShopEase – Software QA Portfolio
 
 I created this project to demonstrate the testing workflow followed in a real software development environment and to strengthen my practical QA skills.
+
 ---
 
 ## Application Under Test (AUT) Overview: ShopEase
