@@ -1,8 +1,4 @@
-# ShopEase – Software QA Portfolio
-
-Welcome to the **ShopEase QA Project**! 
-
-This repository showcases my approach to testing an e-commerce application from requirements analysis through manual testing, API testing, database validation, and Selenium automation using Python.
+## ShopEase – Software QA Portfolio
 
 I created this project to demonstrate the testing workflow followed in a real software development environment and to strengthen my practical QA skills.
 ---
