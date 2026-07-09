@@ -1,56 +1,61 @@
-# ShopEase: E-Commerce QA Project
+# ShopEase – Software QA Portfolio
 
 Welcome to the **ShopEase QA Project**! 
 
-This repository contains a comprehensive, end-to-end Software Quality Assurance (QA) project for an e-commerce web application named **ShopEase**. 
+This repository showcases my approach to testing an e-commerce application from requirements analysis through manual testing, API testing, database validation, and Selenium automation using Python.
+
+I created this project to demonstrate the testing workflow followed in a real software development environment and to strengthen my practical QA skills.
 ---
 
-## 🚀 Application Under Test (AUT) Overview: ShopEase
+## Application Under Test (AUT) Overview: ShopEase
 
-**ShopEase** is a modern B2C e-commerce platform that allows users to register, log in, browse and search products, manage wishlists and shopping carts, complete secure checkouts via payment gateways, track orders, and manage their profiles. Additionally, the platform features an Admin Panel for managing products and inventories.
+The application under test is an e-commerce website that allows users to register, browse products, manage a cart, place orders, and administer inventory. It provides enough functionality to demonstrate functional, API, database, and automation testing.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 The project is structured logically into several key modules, demonstrating competence across manual testing, API testing, database verification, automation testing (using Python & Selenium), agile test management (Jira simulation), and test metrics analysis:
 
 ```text
 shopease_qa_portfolio/
 │
-├── README.md                           # Project Main Entry & Portfolio Map
+├── README.md                           
 │
-├── docs/                               # Project Requirements & Test Plans
-│   ├── BRD.md                          # Business Requirements Document
-│   ├── SRS.md                          # Software Requirements Specification
-│   └── Test_Plan.md                    # Comprehensive Master Test Plan
+├── docs/                               
+│   ├── BRD.md                          
+│   ├── SRS.md                          
+│   └── Test_Plan.md                    
 │
-├── test_design/                        # Test Scenarios, Cases, and Traceability
-│   ├── Test_Scenarios.md               # 50+ Detailed Functional Scenarios
-│   ├── Test_Cases.md                   # 100+ Professional Test Cases
-│   └── RTM.md                          # Requirement Traceability Matrix
+├── test_design/                       
+│   ├── Test_Scenarios.md              
+│   ├── Test_Cases.md                  
+│   └── RTM.md                          
 │
-├── jira/                               # Agile Project Simulation & Defect Tracking
-│   ├── Jira_Simulation.md              # Epics, User Stories, and Sprint Backlog
-│   └── Defect_Log.md                   # 25 Realistic Bug Reports with RCA
+├── jira/                               
+│   ├── Jira_Simulation.md              
+│   └── Defect_Log.md                  
 │
-├── backend/                            # API & Database Backend Testing
-│   ├── API_Testing.md                  # REST API Scenarios, Payloads, & Test Cases
-│   └── Database_Testing.sql            # Schema, Data Inserts, & 25 Validation Queries
+├── backend/                           
+│   ├── API_Testing.md                  
+│   └── Database_Testing.sql            
 │
-├── automation/                         # Python + Selenium POM Test Automation
-│   ├── pages/                          # Page Object Models
+├── automation/                         
+│   ├── pages/                        
 │   │   ├── base_page.py
 │   │   ├── login_page.py
 │   │   ├── registration_page.py
 │   │   ├── search_page.py
 │   │   └── cart_page.py
-│   └── tests/                          # Automation Test Suites & Fixtures
+│   └── tests/                          
 │       ├── conftest.py
 │       └── test_suite.py
 │
-├── reports/                            # Metrics & QA Closure Reports
-    ├── Test_Execution.md               # Execution Logs & Defect Density/Leakage Stats
-    ├── Test_Summary_Report.md          # Release Recommendation & Closure Report
-    └── Defect_Summary_Report.md        # Deep-dive Defect Metrics & Statistics
+├── reports/                            
+    ├── Test_Execution.md              
+    ├── Test_Summary_Report.md          
+    └── Defect_Summary_Report.md        
 ```
+## Why I built this project
+
+I wanted a project that covered the complete QA lifecycle instead of isolated examples. My objective was to practice documenting requirements, designing test cases, reporting defects, validating APIs and databases, and building a maintainable Selenium framework using the Page Object Model.
